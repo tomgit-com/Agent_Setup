@@ -1,0 +1,38 @@
+# Backup files
+*.backup
+*.bak
+*~
+
+# Generated files
+Modelfile
+Modelfile.*
+tmp_modelfile_*
+*.tmp
+
+# AGENTS.md (local guidelines document)
+AGENTS.md.local
+AGENTS_*.md
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+logs/
+
+# Cache and temp
+.cache/
+temp/
+/tmp/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
