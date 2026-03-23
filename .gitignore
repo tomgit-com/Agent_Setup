@@ -11,6 +11,7 @@ tmp_modelfile_*
 
 # AGENTS.md (local guidelines document)
 AGENTS.md.local
+AGENTS.md
 AGENTS_*.md
 
 # IDE/Editor files
