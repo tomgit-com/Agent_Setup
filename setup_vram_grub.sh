@@ -3,7 +3,6 @@
 # Script to add virtual VRAM configuration to GRUB
 # Supports: Debian, Ubuntu, Fedora, Arch, CachyOS, CentOS/RHEL
 
-set -e
 
 SYSTEM_RAM_RESERVE=16
 PAGE_SIZE_KB=4
